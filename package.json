@@ -1,5 +1,5 @@
 {
-  "name": "servicebus-retry",
+  "name": "@servicebus/retry",
   "version": "0.0.0-development",
   "description": "retry middleware for servicebus using kafka",
   "main": "index.js",
