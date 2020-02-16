@@ -24,13 +24,13 @@
   "homepage": "https://github.com/servicebus/retry",
   "devDependencies": {
     "mocha": "7.0.1",
+    "servicebus": "^2.3.3",
     "should": "13.2.3"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
     "debug": "4.1.1",
     "extend": "3.0.2",
-    "redis": "3.0.2",
-    "servicebus": "2.3.3"
+    "redis": "3.0.2"
   }
 }
