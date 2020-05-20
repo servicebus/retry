@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/servicebus/retry",
   "devDependencies": {
-    "mocha": "7.0.1",
+    "mocha": "7.1.2",
     "servicebus": "^2.3.3",
     "should": "13.2.3"
   },
